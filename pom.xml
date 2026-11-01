@@ -64,7 +64,7 @@
 
     <android.version>4.1.1.4</android.version>
     <args4j.version>2.0.12</args4j.version>
-    <bnd.version>6.4.0</bnd.version>
+    <bnd.version>7.4.0</bnd.version>
     <jakarta.servlet.api.version>6.1.0</jakarta.servlet.api.version>
     <jetty9.version>9.4.58.v20250814</jetty9.version>
     <jetty12.version>12.1.12</jetty12.version>
